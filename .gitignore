@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+*.autosave
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.fuse_hidden*
+.vscode/

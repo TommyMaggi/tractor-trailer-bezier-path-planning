@@ -1,0 +1,5 @@
+*.m    text diff=matlab
+*.md   text
+*.mat  binary
+*.png  binary
+*.pdf  binary
